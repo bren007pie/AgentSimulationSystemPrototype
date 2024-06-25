@@ -1,1 +1,0 @@
-Open Solution Standalone in Visual Studio 2022 with the  "Game Development with Unity" package installed
