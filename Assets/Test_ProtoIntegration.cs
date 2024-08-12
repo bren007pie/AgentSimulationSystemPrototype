@@ -53,7 +53,7 @@ public class Test_ProtoIntegration
         EmIntensityT.EmIntensityChgT intensityDelta1 = 
             EmIntensityCalcLib<AgentSimItemSlot>.CalcJoyIntensity(goal, 
                 dDelta1);
-        // DΔ = change the game world event makes to the world
+        // D_delta = change the game world event makes to the world
 
         // 1 seems to be a good base value to add or subtract joy intensity
         EmIntensityT joyIntensity = 
