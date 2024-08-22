@@ -120,7 +120,7 @@ namespace AgentSimulation
             ProtoDistanceBetweenWorldStates distanceChange = 
                 new ProtoDistanceBetweenWorldStates(this, otherWorld);
             CheckInventorySize(this.GetInventorySize(), 
-                distanceChange.GetInventorySize());
+               distanceChange.GetInventorySize());
             return distanceChange;
         }
 
