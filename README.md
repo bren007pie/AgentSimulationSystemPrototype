@@ -6,7 +6,7 @@ is an emotion engine that might promote code reuse and allow developers
 to abstract away NPC decision-making by programming with emotions. In
 this work, I demonstrated the feasibility of integrating the EMgine
 emotion component library into the Unity game engine. I created a
-prototype agent simulation system where \textit{Joy} intensity is
+prototype agent simulation system where *Joy* intensity is
 automatically generated for an NPC based on environmental changes.
 
 ## License ##
